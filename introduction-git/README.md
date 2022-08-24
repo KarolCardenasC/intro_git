@@ -17,5 +17,5 @@
 
 ### Tools
 
-- Fig -> autoComplete
-- oh-my-zsh
+- Fig -> autoComplete (Linux o Mac)
+- oh-my-zsh (Linux o Mac)
