@@ -19,4 +19,3 @@
 
 - Fig -> autoComplete (Linux o Mac)
 - oh-my-zsh (Linux o Mac)
-- Prueba
