@@ -7,6 +7,12 @@
 - <strong>git commit -m " "</strong> (guardar los archivos que están en el stage area con un comentario)
 - <strong>git push origin main</strong> (subir los cambios al repositorio github/gitlab)
 - <strong>git status</strong> (verificar los archivos que están dentro y fuera del stage area)
+- <strong>git branch</strong> (visualizar las ramas del proyecto)
+- <strong>git log --oneline</strong> (ejecutar commits y ramas del proyecto)
+- <strong>git branch nombre-rama</strong> (Crear una nueva rama)
+- <strong>git checkout nombre-rama</strong> (Cambiar de rama)
+- <strong></strong>
+- <strong></strong>
 - <strong></strong>
 
 # Config
