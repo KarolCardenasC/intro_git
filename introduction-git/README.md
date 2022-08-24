@@ -11,7 +11,7 @@
 - <strong>git log --oneline</strong> (ejecutar commits y ramas del proyecto)
 - <strong>git branch nombre-rama</strong> (Crear una nueva rama)
 - <strong>git checkout nombre-rama</strong> (Cambiar de rama)
-- <strong></strong>
+- <strong>git merge nombre-rama</strong> (Unir commits de 2 ramas)
 - <strong></strong>
 - <strong></strong>
 
