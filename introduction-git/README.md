@@ -12,7 +12,7 @@
 - <strong>git branch nombre-rama</strong> (Crear una nueva rama)
 - <strong>git checkout nombre-rama</strong> (Cambiar de rama)
 - <strong>git merge nombre-rama</strong> (Unir commits de 2 ramas)
-- <strong></strong>
+- <strong>git branch -d nombre-rama</strong> (elimiar Rama)
 - <strong></strong>
 
 # Config
