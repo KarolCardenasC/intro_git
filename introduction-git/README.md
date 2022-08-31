@@ -13,7 +13,7 @@
 - <strong>git checkout nombre-rama</strong> (Cambiar de rama)
 - <strong>git merge nombre-rama</strong> (Unir commits de 2 ramas)
 - <strong>git branch -d nombre-rama</strong> (elimiar Rama)
-- <strong></strong>
+- <strong> git pull origin nombre-rama</strong> (traer actualización del git)
 
 # Config
 
