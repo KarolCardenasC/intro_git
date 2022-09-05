@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+}
+
+header{
+    height: 320px;
+}
+
+header img{
+    width: 100%;
+    height: 100%;
+}
+#section-cards{
+    background: #202328;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.card{
+    border: 1px solid black;
+    width: 400px;
+    height: 180px;
+    border-radius: 10px;
+    /* Lo Que se salga del contenedor lo va a ocultar*/
+    overflow: hidden;
+    /* Ubique los elementos de izquierda a derecha*/
+    display: flex;
+    margin: 20px;
+    box-shadow: 0 0 10px 0 rgb(8, 236, 8) ;
+}
+
+.card img{
+    width: 45%;
+    height: 100%;
+}
+
+.body-card{
+    width: 55%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background: #3B3E43;
+    color: white;
+}
